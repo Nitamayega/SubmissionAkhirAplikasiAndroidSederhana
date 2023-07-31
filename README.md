@@ -1,7 +1,7 @@
 # Submission Akhir Aplikasi Android Sederhana
 Repository ini berisi latihan Belajar Membuat Aplikasi Android untuk Pemula - Submission Akhir
 
-## Fitur pada aplikasi
+## Fitur Aplikasi
 ### Halaman Utama
 Syarat:
 - Menampilkan gambar dalam format List dengan jumlah minimal 10 item yang berbeda. Gunakanlah RecyclerView untuk menyusun listnya. Informasi yang ditampilkan mengandung :
